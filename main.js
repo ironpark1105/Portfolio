@@ -90,10 +90,8 @@ projectContainer.classList.add('anim-out');
 // 3. 보여지는 섹션에 해당하는 메뉴 아이템을 활성화 시킨다
 const sectionIds = [
     '#home', 
-    '#about',
-    '#skills',
+    '#aboutskills',
     '#work', 
-    '#testimonials', 
     '#contact',
 ];
 
